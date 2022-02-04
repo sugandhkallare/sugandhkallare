@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sugandhkallare
-- 👀 I’m interested in learning anything newer in tech space
+- 👀 I’m interested in learning anything newer in tech 
 - 🌱 I’m currently learning Cloud Automation, Deployment at scale, IaaS, SaaS, MicroServices architecture and the industry best practices
 - 💞️ I’m looking to collaborate on solving complex problems with the help of interesting solutions 
 - 📫 How to reach me : myexperimentswithtechchannel@gmail.com
